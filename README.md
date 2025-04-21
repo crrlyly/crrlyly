@@ -1,3 +1,7 @@
 ## Hi I'm Carly! 👋
- <img align="right" style="display: block;" alt="Coding" width="400" src="https://64.media.tumblr.com/af8dc0552e6e5dfaf57f146c5db0c057/b73562a08fe87377-d0/s640x960/d47854ba6940a89b66ca495b828f13d6db7caa60.gif">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![banner](https://github.com/user-attachments/assets/679cf200-17b5-48e8-bb72-d9da8c39de25)
+
+<p align="center">I'm a junior at Rutgers University majoring in Computer Science and Information Technology & Informatics (ITI). I'm passionate about web design, UI/UX, and full-stack web development. Right now, I’m building my skills in technologies like JavaScript, React, Node.js, Python, and SQL, and I love turning creative ideas into functional, user-friendly web applications.I’m always excited to learn new tools, collaborate on cool projects, and grow as a developer. Let’s build something awesome together!</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crrlyly&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
