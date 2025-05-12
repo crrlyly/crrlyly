@@ -1,11 +1,11 @@
 ![banner](https://github.com/user-attachments/assets/679cf200-17b5-48e8-bb72-d9da8c39de25)
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Carly!;I'm+a+junior+at+Rutgers+University!;Code+with+me+:)+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+junior+at+Rutgers+University!;Code+with+me+:)+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <b>I'm a junior at Rutgers University majoring in Computer Science and ITI.</b><br>
+  <b>I'm currently a junior at Rutgers University majoring in Computer Science and ITI.</b><br>
   I’m passionate about <b>UI/UX, full-stack web development, and web design</b>.<br>
   I enjoy crafting clean, responsive, and user-focused applications.<br>
   Currently building with <code>JavaScript</code>, <code>React</code>, <code>Node.js</code>, <code>Python</code>, <code>SQL</code>, and more!
