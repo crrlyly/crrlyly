@@ -45,7 +45,7 @@
 
 ### 💻 Currently Learning
 
-- 🧠 Deepening my skills in **React**, **Node.js**, and **MySQL**
+- 🧠 Deepening my skills in **React**, **Node.js**, **Three.js**, and **MySQL**
 - 🤖 Tinkering with beginner **Machine Learning** models in Python
 
 ---
