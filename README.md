@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>I'm currently a senior at Rutgers University majoring in Computer Science and ITI.</b><br>
-  I’m passionate about <b>UI/UX, full-stack web development, and web design</b>.<br>
+  I’m passionate about <b>UI/UX, full-stack web development, data analysis, and web design</b>.<br>
   I enjoy crafting clean, responsive, and user-focused applications.<br>
   Currently building with <code>JavaScript</code>, <code>React</code>, <code>Node.js</code>, <code>Python</code>, <code>SQL</code>, and more!
 </p>
