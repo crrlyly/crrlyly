@@ -39,8 +39,12 @@
 
 ### 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crrlyly&layout=donut-vertical&theme=radical" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=crrlyly&layout=donut-vertical&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
 ---
