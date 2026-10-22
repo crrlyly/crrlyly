@@ -42,7 +42,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=crrlyly&layout=donut-vertical&theme=radical"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=crrlyly&layout=donut-vertical&theme=radical&langs_count=8"
     alt="Top Languages"
   />
 </p>
